@@ -11,9 +11,6 @@ A recreation of a Etch-A-Sketch on a web page.
 - [Project Structure](#project-structure)
 - [License](#license)
 
-## Access
-Accessible from https://ama4538.github.io/Etch-A-Sketch/
-
 ## Installation
 1. **Clone the repository:**
     ```bash
