@@ -15,7 +15,7 @@ A recreation of a Etch-A-Sketch on a web page.
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Ama4538/Etch-A-Sketch.git
-    cd PortfolioV3
+    cd Etch-A-Sketch
     ```
 2. **Install dependencies:**
     ```bash
